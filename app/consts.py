@@ -1,0 +1,2 @@
+INSERT = "insert"
+DELETE = "delete"
